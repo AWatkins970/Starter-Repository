@@ -1,2 +1,2 @@
 # Starter-Repository
-Another repository for a start
+Initating a starting repository for this account...
